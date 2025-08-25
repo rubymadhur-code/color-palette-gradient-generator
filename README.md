@@ -24,6 +24,6 @@ A simple React + Tailwind CSS project (in progress) that lets you generate rando
 
 ## 📸 Screenshot  
 
-![Color Palette & Gradient Generator]("public/img/screenshot.png")  
+![Color Palette & Gradient Generator](public/img/screenshot.png)  
 
 ---
